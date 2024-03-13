@@ -1,0 +1,9 @@
+h2{
+      color: blue;
+}
+#example{
+      background-color: rgb(247, 234, 218);
+      width: 51%;
+      padding: 5px;
+      border-left: 8px solid rgb(207, 207, 1);
+    }
